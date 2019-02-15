@@ -34,13 +34,13 @@ gem 'mini_magick', '~> 4.8'
 gem 'twitter-bootstrap-rails', '~> 4.0'
 # images avatar default
 gem 'gravatar_image_tag', '~> 1.2'
-# best errors
+
 # simple form for simple style form
-#gem 'simple_form', '~> 4.1'
-# bulma style
+gem 'simple_form', '~> 4.1'
+#bulma style
 gem 'bulma-rails', '~> 0.7.4'
 #membreship
-#gem 'devise', '~> 4.6', '>= 4.6.1'
+gem 'devise', '~> 4.6', '>= 4.6.1'
 
 #country selected
 #gem 'country_select', '~> 4.0'
